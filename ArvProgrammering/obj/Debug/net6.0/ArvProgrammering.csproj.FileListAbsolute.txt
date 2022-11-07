@@ -1,0 +1,5 @@
+C:\Users\aslund.alexander\null\ArvProgrammering\ArvProgrammering\obj\Debug\net6.0\ArvProgrammering.csproj.AssemblyReference.cache
+C:\Users\aslund.alexander\null\ArvProgrammering\ArvProgrammering\obj\Debug\net6.0\ArvProgrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslund.alexander\null\ArvProgrammering\ArvProgrammering\obj\Debug\net6.0\ArvProgrammering.AssemblyInfoInputs.cache
+C:\Users\aslund.alexander\null\ArvProgrammering\ArvProgrammering\obj\Debug\net6.0\ArvProgrammering.AssemblyInfo.cs
+C:\Users\aslund.alexander\null\ArvProgrammering\ArvProgrammering\obj\Debug\net6.0\ArvProgrammering.csproj.CoreCompileInputs.cache
