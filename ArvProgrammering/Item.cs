@@ -1,7 +1,7 @@
 using System;
 
-public class Item {
+public class Weapon {
 
-    public String name {get; set;}
-    public String rarity {get; set;}
+    public String Name {get; set;}
+    public int Damage {get; set;}
 }
